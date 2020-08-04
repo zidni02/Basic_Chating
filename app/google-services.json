@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "678492779417",
+    "firebase_url": "https://firstchatingbasic.firebaseio.com",
+    "project_id": "firstchatingbasic",
+    "storage_bucket": "firstchatingbasic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678492779417:android:7c1ee406d55bb83df39908",
+        "android_client_info": {
+          "package_name": "com.zidni.basicchating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678492779417-m83tshf0gte3jcevovtog7r3hs7t02or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zidni.basicchating",
+            "certificate_hash": "6147ec0f4647e37031cc06cfcc3cb7128f5a30fb"
+          }
+        },
+        {
+          "client_id": "678492779417-q3eksc2uqem77138isfgj3aj7ubrjcv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-bZa1D_yOk2W0ny1q2GsU2ymDYbkouvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678492779417-q3eksc2uqem77138isfgj3aj7ubrjcv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
